@@ -1,5 +1,7 @@
 ## Hi, I'm Dami 👋
 
+prev @[Windframe](https://windframe.dev), @[Devwares](https://github.com/Devwares-Team)
+
 Frontend-leaning Software Engineer & AI Engineer focused on building intelligent web apps.
 
 I’m interested in web performance, user experience, and NLP for low-resource languages.
