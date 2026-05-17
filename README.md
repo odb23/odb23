@@ -4,7 +4,7 @@ A Software Engineer with a strong foundation in Frontend Engineering and AI Engi
 
 prev @[Windframe](https://windframe.dev), @[Devwares](https://github.com/Devwares-Team)
 
-I’m currently interested in web performance and user experience, and trying to master modern software engineering and NLP for for low-resource languages.
+I’m currently interested in web performance and user experience, and trying to master modern software engineering and NLP for low-resource languages.
 
 How to reach me: [Send me a mail](mailto:dami.odu23@gmail.com)
 
