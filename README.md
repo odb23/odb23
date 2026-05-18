@@ -1,6 +1,6 @@
 ## Hi, I'm Dami 👋
 
-A Software Engineer with a strong foundation in Frontend Engineering and AI Engineering, focused on building intelligent web apps.
+A Software Engineer with a strong foundation in Product Engineering (Frontend-leaned) and AI Engineering, focused on building intelligent web apps.
 
 prev @[Windframe](https://windframe.dev), @[Devwares](https://github.com/Devwares-Team)
 
